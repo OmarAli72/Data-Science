@@ -1,2 +1,11 @@
 # Data-Science
-All of my Data Science projects
+this repository contains all my projects in the field of data science
+# Machine Learning
+- Classification
+- Regression
+- Clustering
+# Deep Learning
+- Artifical Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+
